@@ -7,6 +7,7 @@
 
     section#login {
         width: 80vw;
+        height: 300px;
     }
 
     #imagem {
@@ -22,6 +23,7 @@
 
     p {
         font-size: 1em;
+        padding: 5px;
     }
 }
 
@@ -32,6 +34,7 @@
 
     #login {
         width: 950px;
+        height: 360px;
     }
 
     #imagem {
@@ -47,6 +50,7 @@
 
     p {
         font-size: 1.2em;
+        padding: 10px;
     }
 
     h1 {
